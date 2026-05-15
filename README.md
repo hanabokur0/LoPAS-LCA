@@ -1,5 +1,6 @@
 # LCA — Learning Claim Architecture
 
+
 **LoPAS-SEED v1.16 Independent Module**
 Status: Draft v0.1 | 2026-04-18
 
